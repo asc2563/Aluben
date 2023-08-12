@@ -17,5 +17,5 @@ features:
 6. also when using the search box to Load web pages there will not be history of that webpage in your history just the aluben link
 7. and since Aluben is made on replit you can fork it and make another link.
 ##
-Aluben W-P in is WIP and is still updating
+Aluben W-P is WIP and is still updating
 ##
