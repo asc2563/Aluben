@@ -6,7 +6,7 @@ https://discord.gg/Jeybsy2us4
 how to use:
 
 type your URL with https/http in search box then click load URL
-and it will open the web page there are 4 proxy's nebula, aluben, ultravoiet, and abyss you can use these to unblock.
+and it will open the web page there are 4 proxy's nebula, aluben, procky list, and abyss you can use these to unblock.
 ##
 features:
 1. this can run most sites in the url box
@@ -16,6 +16,7 @@ features:
 5. you can have as many tabs open at once just click the tab option
 6. also when using the search box to Load web pages there will not be history of that webpage in your history just the aluben link
 7. and since Aluben is made on replit you can fork it and make another link.
+8. there are built-in games
 ##
 Aluben W-P is WIP and is still updating
 ##
