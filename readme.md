@@ -5,8 +5,8 @@ https://discord.gg/Jeybsy2us4
 ##
 how to use:
 
-type your URL with https/http in search box then click load URL
-and it will open the web page there are 4 proxy's nebula, aluben, procky list, and abyss you can use these to unblock.
+type your URL with https/http in search box then click load load url.
+ it will open the  page there are 4 proxy's nebula, aluben, procky list, and abyss you can use these to unblock.
 ##
 features:
 1. this can run most sites in the url box
