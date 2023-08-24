@@ -3,3 +3,28 @@ html {
   height: 100%;
   background-color: black;
 }
+
+button {
+  background-color: black;
+  color: white;
+  border: 2px solid orange;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+
+input[type="text"] {
+  height: 2px;
+  width: 480px;
+  padding: 10px;
+  border: 2px solid orange;
+  border-radius: 5px;
+}
+
+
+a {
+  color: white;
+  text-decoration: none;
+}
