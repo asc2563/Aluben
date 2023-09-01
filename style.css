@@ -4,6 +4,12 @@ html {
   background-color: black;
 }
 
+body {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
 button {
   background-color: black;
   color: white;
