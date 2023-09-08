@@ -1,14 +1,19 @@
 ##
+
 join the aluben discord server
 
-https://discord.gg/Jeybsy2us4
+https://is.gd/Alubendiscord
+
 ##
+<img src="assets/images/Aluben-logo.jpeg"></img>
 how to use:
 
-type your URL with https/http in search box then click load load url.
- it will open the  page there are 4 proxy's nebula, aluben, procky list, and abyss you can use these to unblock.
+type your URL with https / http in search box then click load load url.it will open the page there are 4 proxy's nebula, aluben, procky list, and abyss you can use these to unblock.
+
 ##
+
 features:
+
 1. this can run most sites in the url box
 2. this web proxy has a password protection system so no one can open a new tab without the passcode
 3. this proxy is very light weight and simple UI using mostly JS there is litle to no lag.
@@ -17,6 +22,9 @@ features:
 6. also when using the search box to Load web pages there will not be history of that webpage in your history just the aluben link
 7. and since Aluben is made on replit you can fork it and make another link.
 8. there are built-in games
+
 ##
+
 Aluben W-P is WIP and is still updating
+
 ##
