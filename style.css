@@ -29,15 +29,15 @@ button {
   margin: 5px;
   cursor: pointer;
 }
-button:hover{
-    transition : 1000ms;
-    padding: 10px 50px;
-    transform : translateY(-0px);
-    background-color: #001141;
-    color: floralwhite;
-    border: solid 4px orange;
-  }
-    
+button:hover {
+  transition: 1000ms;
+  padding: 10px 50px;
+  transform: translateY(-0px);
+  background-color: #001141;
+  color: floralwhite;
+  border: solid 4px orange;
+}
+
 input[type="text"] {
   height: 2px;
   width: 480px;
@@ -58,7 +58,7 @@ iframe {
 }
 img {
   height: 100px;
-  color:#001191;
+  color: #001191;
 }
 #txt {
   font-size: 23px;

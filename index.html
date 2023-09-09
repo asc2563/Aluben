@@ -21,8 +21,53 @@
     Aluben so cool wow!!
     <br />
   </head>
+  
+  
 
   <body style="background-color: black">
+    <style>
+    /* Define styles for the custom alert */
+    .custom-alert{
+      display: center;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: black;
+      color: white;
+      border: 1px solid blue;
+      padding: 20px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      z-index: 1000;
+    }
+    #hi {
+      border: 2px solid blue;
+    }
+  </style>
+    <script>
+      var passcode;
+    </script>
+
+  <!-- Custom alert with ID and class -->
+  <div id="myCustomAlert" class="custom-alert" style="
+    position: absolute;
+top: 180px;">
+    Welcome to Aluben, Set Passcode<br/>
+      
+    <input type="text" id="hi" onchange="passcode = this.value; console.log(''+ passcode +'')"></input> 
+    <button onclick = "hideCustomAlert()">Comfirm</button>
+  </div>
+  <script>
+    function showCustomAlert() {
+      var customAlert = document.getElementById("myCustomAlert");
+      customAlert.style.display = "block";
+    }
+
+    function hideCustomAlert() {
+      var customAlert = document.getElementById("myCustomAlert");
+      customAlert.style.display = "none";
+    }
+  </script>
     <br />
     <button class="button" type="button" onclick="credits()">Credits
     </button>
