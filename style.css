@@ -64,3 +64,25 @@ img {
   font-size: 23px;
   color: honeydew;
 }
+script {
+  background-size: cover;
+  color: white;
+  position: absolute;
+  width: 350px;
+  border-radius: 5px;
+  left: 50%;
+  margin-left: -160px;
+  padding: 16px 8px 8px;
+  box-sizing: border-box;
+}
+
+select {
+  background-color: #001141;
+  border: 2px solid orange;
+  color: floralwhite;
+}
+
+input {
+  background-color: black;
+  color: floralwhite;
+}
