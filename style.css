@@ -37,13 +37,18 @@ button:hover {
   color: floralwhite;
   border: solid 4px orange;
 }
-
-input[type="text"] {
+#hi {
   height: 2px;
+}
+input {
+  height: 14px;
   width: 480px;
   padding: 10px;
   border: 2px solid orange;
   border-radius: 5px;
+  background-color: #141414;
+  color: floralwhite;
+  font-size: 13px;
 }
 
 iframe {
@@ -82,7 +87,3 @@ select {
   color: floralwhite;
 }
 
-input {
-  background-color: black;
-  color: floralwhite;
-}
