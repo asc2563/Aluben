@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+.button {
+
+  font-family: Roboto, sans-serif;
+  font-weight: 0;
+  font-size: 14px;
+  color: #fff;
+  background: linear-gradient(90deg, #49a4ff 0%, #c500cc 100%);
+  padding: 10px 30px;
+  border: solid #000000 2px;
+  box-shadow: rgb(0, 0, 0) 7px 5px 25px 5px;
+  border-radius: 41px 25px 25px 50px;
+  transition: 1000ms;
+  transform: translateY(0);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+
+.button:hover {
+
+  transition: 1000ms;
+  padding: 10px 50px;
+  transform: translateY(-9px);
+  background: linear-gradient(90deg, #49a4ff 0%, #c500cc 100%);
+  color: #000000;
+  border: solid 2px #cc0000;
+}
+
+
+html {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  color: floralwhite;
+  text-align: center;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  text-align: center;
+}
+
+head {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  text-align: center;
+}
+
+button {
+  background-color: #001141;
+  color: floralwhite;
+  border: 2px solid orange;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  transition: 1000ms;
+  padding: 10px 50px;
+  transform: translateY(-0px);
+  background-color: #001141;
+  color: floralwhite;
+  border: solid 4px orange;
+}
+
+#hi {
+  height: 2px;
+}
+
+input {
+  
+font-family: Roboto, sans-serif;
+font-weight: 0;
+font-size: 14px;
+color: #fff;
+background: linear-gradient(90deg, #cc0000 0%, #c500cc 100%);
+padding: 10px 30px;
+border: solid #290224b5 2px;
+box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+border-radius: 50px;
+transition : 1000ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+}
+
+iframe {
+  border: 2px solid aqua;
+  border-radius: 10px;
+}
+
+#Aluben {
+  font-size: 50px;
+  color: #001191;
+  text-decoration: underline;
+}
+
+img {
+  height: 100px;
+  color: #001191;
+}
+
+#txt {
+  font-size: 23px;
+  color: honeydew;
+}
+
+script {
+  background-size: cover;
+  color: white;
+  position: absolute;
+  width: 350px;
+  border-radius: 5px;
+  left: 50%;
+  margin-left: -160px;
+  padding: 16px 8px 8px;
+  box-sizing: border-box;
+}
+
+select {
+  background-color: #001141;
+  border: 2px solid #9121ba;
+  color: floralwhite;
+}
