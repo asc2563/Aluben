@@ -1,5 +1,5 @@
-# Aluben SpeedSlicer-Remaster<p>
+# Aluben SpeedSlicer-Remaster
 A work-in-progress project by SpeedSlicer
-</p><p>
-Aluben discord: https://discord.gg/rDsRchBUFU
-</p>
+<br><br>
+<br>
+[Aluben discord](https://discord.gg/rDsRchBUFU)

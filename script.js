@@ -275,13 +275,8 @@ function gammeon() {
   win.document.body.appendChild(iframe);
 }
 
-function source() {
-  window.open("https://github.com/asc2563/Aluben");
-
-}
-
 function github() {
-  window.open("https://github.com/asc2563/Aluben");
+  window.open("https://github.com/Aluben-Services/Aluben");
 
 }
 function proxylist() {
